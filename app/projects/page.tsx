@@ -22,7 +22,7 @@ export default function ProjectsPage() {
       tags: ["Python", "OpenCV", "Harcascade", "Tkinter", "Pyttsx3"],
       github: "https://github.com/Himanshu2615/Presensee",
       demo: "https://github.com/Himanshu2615/Presensee",
-      category: "web",
+      category: "software",
     },
     {
       title: "Expense-Tracker",
