@@ -31,7 +31,7 @@ export default function ProjectsPage() {
       image: "/img8.png",
       tags: ["React", "Firebase", "Tailwind CSS", "Redux"],
       github: "https://github.com/Himanshu2615",
-      demo: "https://example.com",
+      demo: "https://linpack-expense-tracker.vercel.app/",
       category: "web",
     },
     {
