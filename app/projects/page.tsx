@@ -97,6 +97,16 @@ export default function ProjectsPage() {
       demo: "https://mind-flow-inky.vercel.app/",
       category: "ml",
     },
+    {
+      title: "Portfolio Website",
+      description: "A personal portfolio website to showcase projects and skills with multi-language support.",
+      image: "/img9.jpg",
+      tags: ["Next.js", "Tailwind CSS", "TypeScript"],
+      github: "https://github.com/Himanshu2615/khilesh-portfolio",
+      demo: "https://khilesh-portfolio.vercel.app/",
+      category: "web",
+    },
+
   ]
 
   const filteredProjects =
