@@ -99,7 +99,7 @@ export default function ProjectsPage() {
     },
     {
       title: "Portfolio Website",
-      description: "A personal portfolio website to showcase projects and skills with multi-language support.",
+      description: "A friends portfolio website to showcase projects and skills with multi-language support.",
       image: "/img9.jpg",
       tags: ["Next.js", "Tailwind CSS", "TypeScript"],
       github: "https://github.com/Himanshu2615/khilesh-portfolio",
