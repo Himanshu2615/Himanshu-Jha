@@ -37,7 +37,7 @@ export default function ProjectsPage() {
     {
       title: "Weather Forecast App",
       description: "A weather forecast application that provides real-time weather information based on location.",
-      image: "/image.png",
+      image: "/img.png",
       tags: ["JavaScript", "OpenWeather API", "HTML", "CSS"],
       github: "https://github.com/Himanshu2615/JalVani",
       demo: "https://jalvani.netlify.app",
@@ -118,7 +118,7 @@ export default function ProjectsPage() {
     {
       title: "Biz Buisness Website",
       description: "A website for doing ERP/ CRM of a buisness.",
-      image: "/img9.jpg",
+      image: "/img11.jpg",
       tags: ["React 18","Next.js", "Tailwind CSS", "TypeScript"],
       github: "https://github.com/BizzColab/Collab",
       demo: "https://collab-gsgq.onrender.com/",
