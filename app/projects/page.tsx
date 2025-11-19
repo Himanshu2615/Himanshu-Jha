@@ -106,6 +106,25 @@ export default function ProjectsPage() {
       demo: "https://khilesh-portfolio.vercel.app/",
       category: "web",
     },
+    {
+      title: "Collab Chatting Website",
+      description: "A website for collabrating and chatting with team members in real-time.",
+      image: "/img10.png",
+      tags: ["React 18","Next.js", "Tailwind CSS", "TypeScript"],
+      github: "https://github.com/BizzColab/Collab",
+      demo: "https://collab-gsgq.onrender.com/",
+      category: "web",
+    },
+    {
+      title: "Biz Buisness Website",
+      description: "A website for doing ERP/ CRM of a buisness.",
+      image: "/img9.jpg",
+      tags: ["React 18","Next.js", "Tailwind CSS", "TypeScript"],
+      github: "https://github.com/BizzColab/Collab",
+      demo: "https://collab-gsgq.onrender.com/",
+      category: "web",
+    },
+    
 
   ]
 
